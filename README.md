@@ -74,22 +74,6 @@ Certifique-se de ter o Python 3 instalado em seu sistema. O Tkinter geralmente j
 5. **Reset**: Clique em "Reset" para limpar todos os registradores, a memória e reiniciar o estado da CPU, pronto para um novo programa.  
 6. **Velocidade do Clock**: Use o slider "Velocidade do Clock" para ajustar a velocidade da simulação em tempo real.
 
-## **Exemplo de Código Assembly**
-
-; Exemplo SAP-1: Soma 5 \+ 3  
-; Conforme descrito no Capítulo 10 do livro de Malvino.  
-; O programa ocupa endereços 00-03 (4 bytes de instruções).  
-; Os dados ocupam endereços 0E-0F (2 bytes de dados).
-
-LDA 0E   ; Carrega o valor do endereço de memória 0E (5 decimal) para o Acumulador (ACC).  
-ADD 0F   ; Soma o valor do endereço de memória 0F (3 decimal) ao conteúdo atual do ACC.  
-OUT      ; Transfere o resultado do ACC para o Registrador de Saída, que é exibido nos LEDs.  
-HLT      ; Para a execução do programa. Essencial para indicar o fim do programa (Seção 10.2).
-
-ORG 0E   ; Diretiva para o montador: Começa a armazenar os dados a partir do endereço de memória 0E.  
-DB 5     ; Define Byte: Armazena o valor decimal 5 no endereço de memória atual (0E).  
-DB 3     ; Define Byte: Armazena o valor decimal 3 no próximo endereço de memória (0F).
-
 ## **Autor**
 
 * **Marcus Meleiro** \- [https://github.com/marcusmelleiro](https://github.com/marcusmelleiro)
