@@ -1,4 +1,4 @@
-# **Emulador SAP-1 com Interface Gráfica e Animação**
+# **Emulador SAP-1**
 
 Este projeto é um emulador do microcomputador didático SAP-1 (Simple-As-Possible 1), uma implementação visual e interativa da arquitetura detalhada no livro "Digital Computer Electronics" de Albert Paul Malvino. Desenvolvido para fins educacionais na disciplina de Arquitetura de Computadores, o software permite aos usuários escrever código Assembly para o SAP-1, montá-lo e observar sua execução passo a passo, com animações visuais dos componentes internos da CPU.
 
