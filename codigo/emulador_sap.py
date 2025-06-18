@@ -4,11 +4,10 @@ Emulador SAP-1 - Implementação Completa com Interface Gráfica
 Este código foi desenvolvido para um projeto da disciplina de Arquitetura de Computadores,
 tendo como objetivo emular o microcontrolador SAP-1, conforme descrito no livro "Digital Computer Electronics" de Albert Malvino.
 
-Autor: [Seu Nome]
-Matrícula: [Sua Matrícula]
+Autor: Marcus Meleiro
 Disciplina: Arquitetura de Computadores
-Professor: [Nome do Professor]
-Data: [Data de Entrega]
+Professor: Claúdio
+Data: 20/06/2025
 """
 
 import tkinter as tk
