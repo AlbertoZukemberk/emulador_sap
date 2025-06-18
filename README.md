@@ -46,33 +46,6 @@ O SAP-1 é um computador de 8 bits com 16 bytes de memória RAM, projetado para 
 * **Python**: Linguagem de programação principal.  
 * **Tkinter**: Biblioteca padrão do Python para criação de interfaces gráficas. Utilizada para construir a GUI e as animações.
 
-## **Como Executar**
-
-### **Pré-requisitos**
-
-Certifique-se de ter o Python 3 instalado em seu sistema. O Tkinter geralmente já vem incluído com a instalação padrão do Python.
-
-### **Instalação**
-
-1. Clone este repositório para sua máquina local:  
-   git clone https://github.com/\[SeuUsuario\]/\[SeuRepositorio\].git  
-   cd \[SeuRepositorio\]
-
-### **Execução**
-
-1. Execute o script principal Python:  
-   python seu\_emulador\_sap1.py
-
-   (Substitua seu\_emulador\_sap1.py pelo nome do arquivo principal do seu projeto, se for diferente de main.py).
-
-## **Uso**
-
-1. **Carregar Exemplo**: Clique no botão "Carregar Exemplo" para inserir um programa Assembly pré-definido no editor.  
-2. **Montar**: Após carregar ou escrever seu código Assembly, clique em "Montar". O montador irá traduzir o código para a linguagem de máquina do SAP-1 e carregá-lo na memória simulada. Erros de sintaxe serão exibidos na barra de status.  
-3. **Executar**: Clique em "Executar" para que o programa seja executado continuamente. A simulação parará ao encontrar a instrução HLT ou ao final da memória.  
-4. **Passo a Passo**: Clique em "Passo a Passo" para executar uma instrução por vez. Isso é ideal para depuração e para observar as animações detalhadas dos componentes da CPU.  
-5. **Reset**: Clique em "Reset" para limpar todos os registradores, a memória e reiniciar o estado da CPU, pronto para um novo programa.  
-6. **Velocidade do Clock**: Use o slider "Velocidade do Clock" para ajustar a velocidade da simulação em tempo real.
 
 ## **Autor**
 
