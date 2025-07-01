@@ -59,3 +59,10 @@ O SAP-1 é um computador de 8 bits com 16 bytes de memória RAM, projetado para 
 ## **Autor**
 
 * **Marcus Meleiro** \- [https://github.com/marcusmelleiro](https://github.com/marcusmelleiro)
+
+## **Integrantes do Grupo**
+
+* **Marcus Meleiro**
+* **Matheus Augusto**
+* **Ary Gomes da Costa**
+* **Davi Wenzel Cury**
