@@ -48,11 +48,8 @@ O SAP-1 é um computador de 8 bits com 16 bytes de memória RAM, projetado para 
 * OUT: Transfere o conteúdo do acumulador para o registrador de saída.  
 * HLT: Interrompe a execução do programa.
 
-**Vídeo Demonstrativo
-<p align="center">
-	<a href="https://youtu.be/KukRnkmfO_s">
-	</a>
-</p>
+## **Vídeo Demonstrativo**
+* \- https://youtu.be/KukRnkmfO_s
 
 ## **Tecnologias Utilizadas**
 
